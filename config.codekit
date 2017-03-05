@@ -232,6 +232,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/logos\/meds.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18274,
+		"inputAbbreviatedPath": "\/img\/logos\/meds.jpg",
+		"outputAbbreviatedPath": "\/img\/logos\/meds.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/logos\/ministerio.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
